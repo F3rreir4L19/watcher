@@ -1,4 +1,3 @@
-```markdown
 # CLAUDE.md — Juridico Watcher
 
 > **Este arquivo é a spec viva do projeto.** Todo modelo de IA que tocar neste repositório DEVE lê-lo antes de qualquer ação. Ele define o que o projeto é, o que não é, o que já foi decidido, o que não pode mudar, e o que está pendente. Não é documentação histórica — é o contrato de desenvolvimento.
@@ -634,6 +633,5 @@ Os arquivos `test/integration/e2e_test.go`, `rule_lifecycle_test.go`, `watch_lif
 ---
 
 *Este arquivo deve ser atualizado a cada Sprint concluída e sempre que uma decisão de design for tomada ou alterada.*
-```
 
 ---
