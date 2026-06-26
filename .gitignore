@@ -7,3 +7,4 @@ bin/
 .vscode/
 *.log
 test/fixtures/generated/
+mytasks.md
